@@ -3,7 +3,7 @@
 }
 
 .toggle {
-  display: block;
+  display: inline-block;
   height: 20px;
   width: 35px;
   background-color: #e84118;
