@@ -20,6 +20,10 @@ Just add these two elements anywhere in your HTML:
 
 You can add an infinite number of toggles as long as they all have differents id/for attributes.
 
+## Example
+
+You can see a working example juste here : https://phpitou.github.io/css-toggle/
+
 ## Use the value in your backend
 
 Just add a `name` attribute to your `input` tags and handle them as regular checkboxes in your backend.
