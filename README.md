@@ -1,6 +1,8 @@
 # css-toggle
 A minimalist CSS-only toggle for your websites.
 
+![image](https://user-images.githubusercontent.com/4071737/136765142-2d28886b-de0d-438e-b406-a4d74756c280.png)
+
 ## Installation
 
 Just copy the `toggle.css` file into your project and add the following line of HTML into your `<head>` tag:
