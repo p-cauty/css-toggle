@@ -18,7 +18,7 @@ Just copy the `toggle.css` file into your project and add the following line of 
 Just add these two elements anywhere in your HTML:
 
 ```html
-<input type="checkbox" id="your_unique_id" class=check" />
+<input type="checkbox" id="your_unique_id" class="check" />
 <label for="your_unique_id" class="toggle"></label>
 ```
 
